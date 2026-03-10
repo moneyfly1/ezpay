@@ -431,7 +431,6 @@ curl -s "http://localhost:6088/health/detail"
 
 ## 交流群组
 
-- Telegram 交流群: https://t.me/+Z9LHPmbr-XJlN2U8
 - Telegram 频道: https://t.me/OpineWorkPublish
 
 ## 贡献
