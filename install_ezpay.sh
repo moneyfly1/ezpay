@@ -28,7 +28,7 @@ go version
 echo "📥 下载 EzPay..."
 cd /www/wwwroot
 rm -rf ezpay
-git clone https://github.com/opinework/ezpay.git
+git clone https://github.com/moneyfly1/ezpay.git
 cd ezpay
 
 # ====== 编译 ======
